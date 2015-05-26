@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Monan/AndroidStudioProjects/IOSample/app/build/intermediates/exploded-aar/com.shamanland/fab/0.0.8/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e58f2fb4991259b0d4e78c3b3dd686ec58736a29">
+        <dex dex="/Users/Monan/AndroidStudioProjects/IOSample/app/build/intermediates/pre-dexed/debug/classes-0a9f66d693800e9b41c2315675f7c30f64375d66.jar" />
+    </item>
+    <item
+        jar="/Users/Monan/AndroidStudioProjects/IOSample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/Monan/AndroidStudioProjects/IOSample/app/build/intermediates/pre-dexed/debug/classes-f6954e95fb97612af242fbdfb2db344281495cda.jar" />
+    </item>
+    <item
+        jar="/Users/Monan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Monan/AndroidStudioProjects/IOSample/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-161663a1c356beefb31c413611dbe7e04de4c20d.jar" />
+    </item>
+    <item
+        jar="/Users/Monan/AndroidStudioProjects/IOSample/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/Monan/AndroidStudioProjects/IOSample/app/build/intermediates/pre-dexed/debug/classes-de9b2b8ea5b603c2e9869220896292fd6998411a.jar" />
+    </item>
+    <item
+        jar="/Users/Monan/AndroidStudioProjects/IOSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Monan/AndroidStudioProjects/IOSample/app/build/intermediates/pre-dexed/debug/classes-ea89725bbeb5eb4a37f039155b9d5d5e108d6a9a.jar" />
+    </item>
+    <item
+        jar="/Users/Monan/AndroidStudioProjects/IOSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Monan/AndroidStudioProjects/IOSample/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-733a6a8465773fb1f66bf5839178467cf85b64e3.jar" />
+    </item>
+
+</items>
